@@ -1,2 +1,14 @@
 # image_seg_via_lbp
-Image Segmentation via Loopy Belief Propogation 
+
+# image_seg_via_lbp
+
+Title: Image Segmentation via Loopy Belief Propogation 
+
+Image segmentation is a classical problem in vision research. Probabilistic graphical models offer a useful way to tackle such problems. In this project, I use loopy belief propagation as a means of segmenting partially labeled images for semi-supervised foreground/background segmentation. 
+
+A few notes to find more information: 
+
+- The project_summary pdf contains an explanation of what's going on in the project. Highly recommended the user read this inconjunction with the code to familiarize themselves. 
+- Code can be found in the code file. Run `run_segmentation` to obtain results. User will need to set two parameters `rho` and `K_GMM`. `rho` is a parameter for controlling influence of edge potentials. `K_GMM` sets the number of GMM classes.  
+- Data contains the three files needed to run the algorithm 
+- The code outputs to a folder algorithm_outputs, where the user can find (1) the GMM model parameters (i.e. means and covariances) in a json format, (2) plots of the segmentations, (3) plot of the adjacency matrix for each super pixel, (4) histogram of number of adjacent nodes for each super pixel
