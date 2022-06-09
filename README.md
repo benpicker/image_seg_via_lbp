@@ -11,11 +11,8 @@ A few notes to find more information:
 
 
 <figure>
-
-![Original Image](https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png)|
-
-<figcaption align = "center"><b>***Original Image***</b></figcaption>
-
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Original Image</b></figcaption>
 </figure>
 
 <b>***Segmentation, with rho=7.75, K_GMM=5***</b>
