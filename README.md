@@ -16,6 +16,8 @@ A few notes to find more information:
 </p>
 
 <p align="center">
+<br>
+<br>
 <b>Segmentation, with rho=7.75, K_GMM=5</b>
 <br>
 <img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png" alt="Trulli" style="width:100%">
