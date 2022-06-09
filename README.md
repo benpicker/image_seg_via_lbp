@@ -11,15 +11,14 @@ A few notes to find more information:
 
 
 
-<div class="img-container"> <!-- Block parent element -->
-	<figure>
-	<figcaption><b>Original Image</b></figcaption>	
-	<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%">
-	</figure>
-	<figure>
-	<figcaption><b>Segmentation, with rho=7.75, K_GMM=5</b></figcaption>	
-	<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png" alt="Trulli" style="width:100%">
-	</figure>
-</div>
+<figure>
+<figcaption><b>Original Image</b></figcaption>	
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%">
+</figure>
+
+<figure>
+<figcaption><b>Segmentation, with rho=7.75, K_GMM=5</b></figcaption>	
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png" alt="Trulli" style="width:100%">
+</figure>
 
 
