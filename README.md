@@ -9,4 +9,9 @@ A few notes to find more information:
 - Data contains the three files needed to run the algorithm 
 - The code outputs to a folder algorithm_outputs, where the user can find (1) the GMM model parameters (i.e. means and covariances) in a json format, (2) plots of the segmentations, (3) plot of the adjacency matrix for each super pixel, (4) histogram of number of adjacent nodes for each super pixel
 
-![alt text](https://github.com/benpicker/image_seg_via_lbp/data/original_image.png?raw=true)
+![Original Image](https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png)
+
+![rho = 7.75, K_GMM = 5](https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png)
+
+
+
