@@ -12,7 +12,7 @@ A few notes to find more information:
 
 <figure>
 <figcaption><b>Original Image</b></figcaption>	
-<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:100%">
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%">
 </figure>
 
 <figure>
