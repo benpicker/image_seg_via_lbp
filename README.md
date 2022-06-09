@@ -10,15 +10,15 @@ A few notes to find more information:
 - The code outputs to a folder algorithm_outputs, where the user can find (1) the GMM model parameters (i.e. means and covariances) in a json format, (2) plots of the segmentations, (3) plot of the adjacency matrix for each super pixel, (4) histogram of number of adjacent nodes for each super pixel
 
 
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%" align="center">
 
 <figure>
 <figcaption><b>Original Image</b></figcaption>	
-<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%" align="center">
 </figure>
 
 <figure>
 <figcaption><b>Segmentation, with rho=7.75, K_GMM=5</b></figcaption>	
-<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png" alt="Trulli" style="width:100%" align="center">
+<img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png" alt="Trulli" style="width:100%">
 </figure>
 
 
