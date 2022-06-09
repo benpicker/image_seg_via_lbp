@@ -16,6 +16,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+</style>
 
 <figure>
 <figcaption><b>Original Image</b></figcaption>	
