@@ -1,7 +1,5 @@
 # image_seg_via_lbp
 
-# image_seg_via_lbp
-
 Title: Image Segmentation via Loopy Belief Propogation 
 
 Image segmentation is a classical problem in vision research. Probabilistic graphical models offer a useful way to tackle such problems. In this project, I use loopy belief propagation as a means of segmenting partially labeled images for semi-supervised foreground/background segmentation. 
