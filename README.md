@@ -11,6 +11,7 @@ A few notes to find more information:
 
 <p align="center">
 <img src="https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png" alt="Trulli" style="width:75%">
+<b>Original Image</b>
 </p>
 
 <figure>
