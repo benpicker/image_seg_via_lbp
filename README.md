@@ -13,7 +13,7 @@ A few notes to find more information:
 
 ![Original Image](https://github.com/benpicker/image_seg_via_lbp/blob/main/data/original_image.png)
 
-***$\rho$***
+***Segmentation, with rho=7.75, K_GMM=5***
 
 
 ![rho = 7.75, K_GMM = 5](https://github.com/benpicker/image_seg_via_lbp/blob/main/algorithm_outputs/segmented_img_rho_7_75_K_GMM_5.png)
